@@ -1,2 +1,2 @@
-# LocaDan-a
-Um site para dançarinos poderem espalhar seu trabalho e serem vistos por estúdios ou gravadoras
+# LocaDanca
+Um site para dançarinos compartilhar seu trabalho e serem vistos por estúdios ou gravadoras.
